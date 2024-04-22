@@ -1,4 +1,4 @@
-# About whisper-subtitle
+# About whisper-subtitle!
 This is a open source subtitle generation web app based on the OpenAi Whisper AI model. 
 Using gradio for the userinterface.
 
